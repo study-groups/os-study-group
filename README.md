@@ -19,5 +19,5 @@ network communication, local and remote file systems, a shell, and device-indepe
 functions. The small size makes Xinu suitable for embedded environments.
 
 ### People
-- [https://www.youtube.com/watch?v=86_BkFsb4eI](Andrew S. Tanenbaum: The Impact of MINIX): story of UNIX from 
+- [Andrew S. Tanenbaum: The Impact of MINIX](https://www.youtube.com/watch?v=86_BkFsb4eI): story of UNIX from 
 a cultural perspective.
