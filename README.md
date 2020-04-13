@@ -11,6 +11,11 @@ store files persistently.
 - [xv6 at MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
 Xv6 is a teaching operating system developed in the summer of 2006 for MIT's operating systems course, 
 [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2019/).
+  - [Commentary on the Sixth Edition UNIX Operating System](http://www.lemis.com/grog/Documentation/Lions/): 
+  The book mentioned by Tanenbaum. It was published in 2 column format. The section on reading C code is 
+  great. It helps to remember all code must be compiled down to assembly instructions which are 
+  executed by the CPU. [Registers](https://en.wikipedia.org/wiki/PDP-11_architecture#CPU_registers)
+  on the CPU hold pointers to memory.
 
 - [XINU](https://xinu.cs.purdue.edu/): XINU stands for Xinu Is Not Unix -- although it 
 shares concepts and even names with Unix, the internal design differs completely. Xinu is a 
